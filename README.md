@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Mpjames702
+- I'm a Laboratory Automation Scientist looking to grow my programming skills using Python, C# and a bit of VBscript :)
