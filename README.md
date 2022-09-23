@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Mpjames702
-- I'm a Scientific Automation Specialist currently using Python and C# for a number of proffesional and personal uses but looking to develop my programming skills further :)
+- I'm a Scientific Automation Specialist currently using Python and C# for a number of professional and personal uses but looking to develop my programming skills further :)
